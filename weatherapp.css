@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background: linear-gradient(-130deg, lightblue, lightgreen);
+}
+.card{
+    color: #ffffff;
+    background: linear-gradient(-130deg, rgb(0, 149, 255),rgb(23, 105, 61));
+    border-radius: 20px;
+    border-width: 0;
+    height: 600px;
+}
+#searchBtn{
+    background: linear-gradient(-130deg, rgb(0, 149, 255),rgb(23, 105, 61));
+    font-size: 20px;
+
+}
+
+img{
+    background: rgba(14, 13, 29, 0.31);
+    border-radius: 50% !important;
+}
+.img{
+    margin-top: -20px;
+}
+.header{
+    background: linear-gradient(-130deg, rgb(0, 149, 255),rgb(23, 105, 61));
+    border-radius: 20px;
+}
+.cloud{
+    font-size: 80px;   
+    color: aqua;
+}
